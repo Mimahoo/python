@@ -25,7 +25,7 @@ def _format_addr(s):
 
 
 from_addr='xiangyongjiang1118@163.com'
-password='xyjLOVE1996'
+password='********'
 smtp_server ='smtp.163.com'
 to_addr='563868273@qq.com'
 n=cur.execute('select * from book_info where vote>500 limit 1')
